@@ -1,0 +1,60 @@
+-----------------
+MercadoPago v.1.2
+-----------------
+
+Changelog v1.2:
+---------------
+[*] Escrito do zero
+
+Changelog v1.1:
+---------------
+[*] Corrigido o custo total dos produtos
+
+
+Desenvolvido por: Franco Manuel Iglesias (cofran)
+Traduzido por: Manoel Vidal (opencartbrasil)
+Última atualização: 18 de Fevereiro de 2011
+Tipo de Licença: Creative Common with Attribution http://creativecommons.org/licenses/by/3.0/
+
+Propósito:
+Este módulo permite efetuar cobranças de suas vendas em sua loja através do MercadoPago.
+
+
+Instalação:
+
+1 - Desinsta-le a antiga versão do módulo.
+    Na administração de sua loja, vá em Extensões->Formas de pagamento e localize a
+    opção 'Mercadopago' e clique em 'Desinstalar'.
+
+2 - Descompacte o conteúdo da nova versão no diretório raiz de sua loja enviando por ftp
+    ou via CPanel, mantendo a estrutura original dos mesmos.
+
+2 - Na administração de sua loja, vá em Extensões->Formas de pagamento e localize a
+    opção 'Mercadopago com IPN', clique em instalar, depois clique em editar e preencha
+    o formulários com todas as informações solicitadas e clique em 'Salvar'.
+
+
+-----------
+IMPORTANTE:
+-----------
+OS códigos das moedas para que a aplicação funcione são:
+ARS => Peso Argentino
+BRL => Real Brasileiro
+MXN => Peso Mexicano
+CLP => Peso Chileno
+
+
+Faça BACKUP!!!!   Faça BACKUP!!!!   Faça BACKUP!!!!   Faça BACKUP!!!!  Faça BACKUP!!!!   Faça BACKUP!!!!
+Não serei responsável por qualquer erro!!!!
+
+
+Para obter os dados de sua conta acesse: https://www.mercadopago.com/mlb/cartdata
+
+
+
+Qualquer problema ou dúvida acesse o tópico oficial sobre o módulo:
+Fórum em Espanhol: http://forum.opencart.com/viewtopic.php?f=98&t=9310
+
+Comentários e Sugestões:
+franco.iglesias@gmail.com
+http://www.opencartbrasil.com.br/forum
