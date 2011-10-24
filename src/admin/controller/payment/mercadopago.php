@@ -5,7 +5,7 @@ class ControllerPaymentMercadopago extends Controller {
 	public function index() {
 		$this->load->language('payment/mercadopago');
 
-		$this->document->title = $this->language->get('heading_title');
+		$this->document->setTitle($this->language->get('heading_title'));
 
 		$this->load->model('setting/setting');
 
